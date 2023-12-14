@@ -1,7 +1,7 @@
 import React from "react";
-import fanImage from "../../image/tschf.png";
-import lightImage from "../../image/The Square Marketed Company (1).png";
-import switchImage from "../../image/introducing.png";
+import fanImage from "../../assets/image/tschf.png";
+import lightImage from "../../assets/image/The Square Marketed Company (1).png";
+import switchImage from "../../assets/image/introducing.png";
 import { useNavigate } from "react-router-dom";
 
 const callous = [

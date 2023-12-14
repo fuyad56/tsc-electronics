@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Logo from "../../image/logo.png";
+import Logo from "../../assets/image/logo.png";
 import { Dialog } from "@headlessui/react";
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
 

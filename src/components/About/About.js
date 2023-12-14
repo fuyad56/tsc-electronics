@@ -1,9 +1,9 @@
 import React from "react";
 import Navbar from "../Shared/Navbar";
 import Footer from "../Shared/Footer";
-import AboutImage from "../../image/who we are.png";
-import VisionImage from "../../image/target.png";
-import historyImage from "../../image/history.png";
+import AboutImage from "../../assets/image/who we are.png";
+import VisionImage from "../../assets/image/target.png";
+import historyImage from "../../assets/image/history.png";
 
 export default function About() {
   return (
