@@ -5,7 +5,7 @@ import Category from './Category'
 
 export default function Products() {
   return (
-    <div>
+    <div className='mt-6'>
         {/* Navbar */}
         <Navbar />
         
