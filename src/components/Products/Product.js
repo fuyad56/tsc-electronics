@@ -539,7 +539,7 @@ export default function Product() {
                     className="h-full w-full object-cover object-center group-hover:opacity-75"
                   />
                 </div>
-                <h3 className="mt-4 text-base text-gray-700">{product.name}</h3>
+                <h3 className="mt-4 text-xl text-center text-gray-700">{product.name}</h3>
               </a>
             ))}
           </div>

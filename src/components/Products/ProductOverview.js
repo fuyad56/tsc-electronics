@@ -536,7 +536,7 @@ export default function ProductOverview() {
             className="h-full max-w-full w-[650px] hover:opacity-75 aspect-h-1 aspect-w-1 overflow-hidden rounded-lg xl:aspect-h-8 xl:aspect-w-7"
           />
           <div className="w-90">
-            <h3 className="mt-4 text-4xl font-semibold text-gray-700">
+            <h3 className="mt-4 text-4xl text-center font-semibold text-gray-700">
               {productData.name}
             </h3>
             <p className="mt-3 text-2xl font-medium text-gray-900">

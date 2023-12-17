@@ -58,7 +58,7 @@ export default function Category() {
                     className="h-full w-full object-cover object-center"
                   />
                 </div>
-                <h3 className="mt-6 text-2xl font-semibold text-gray-900">
+                <h3 className="mt-6 text-2xl font-semibold text-center text-gray-900">
                   <p>{callout.name}</p>
                 </h3>
               </div>
