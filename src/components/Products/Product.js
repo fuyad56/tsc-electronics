@@ -540,9 +540,6 @@ export default function Product() {
                   />
                 </div>
                 <h3 className="mt-4 text-base text-gray-700">{product.name}</h3>
-                <p className="mt-1 text-base font-medium text-gray-900">
-                  {product.price}
-                </p>
               </a>
             ))}
           </div>
