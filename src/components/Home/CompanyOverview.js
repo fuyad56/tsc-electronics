@@ -16,7 +16,7 @@ export default function CompanyOverview() {
             </h1>
             <p className="mt-6 text-base leading-6 text-gray-600">
               Explore TSC, where simplicity meets clarity, and join us on a
-              journey to a brighter, more connected future.
+              journey to a brighter and more connected future.
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <a
