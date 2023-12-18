@@ -525,7 +525,7 @@ export default function ProductOverview() {
       {/* Navbar */}
       <Navbar />
 
-      <div className="flex justify-center items-center h-[100vh] mx-8 sm:mx-20 mt-24 mb-24">
+      <div className="flex justify-center items-center h-auto mx-8 sm:mx-20 mt-24 mb-24">
         <div
           key={productData.id}
           className="flex flex-col md:flex-row justify-evenly items-center gap-16"
